@@ -131,6 +131,9 @@ a.pro_boxout {
 
 /* rwd內容 */
 @media (max-width:800px) {
+    html, body {
+        overflow-x: hidden;
+    }
     main{
         padding-top: 0px;
         height: auto;

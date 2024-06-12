@@ -296,6 +296,9 @@ ul.rr li a,ul.rl li a{
     .flex.active {
         display: flex; 
     }
+    .logo2{
+        display: none;
+      }
     /* 導覽列new */
     .flex{
         padding-left: 150px;
